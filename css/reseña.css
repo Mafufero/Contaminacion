@@ -113,7 +113,7 @@ li a{
 
 /* Formulario */
 #hola{
-    background-image: url(/img/fondo.jpg);
+    background-image: url(../img/fondo.jpg);
     background-size: cover;
     background-position: center;
     height: 110vh;
