@@ -125,7 +125,7 @@ font-size: 22px;
 }
 
 #parte-dos p{
-    font-size: 22px;
+    font-size: 16px;
     padding: 30px;
 }
 
@@ -359,4 +359,7 @@ text-align: justify;
   #logo {
     font-size: 18px;
   }
+}
+p{
+  font-size: 16px;
 }
