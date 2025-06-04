@@ -531,4 +531,6 @@ footer {
         font-size: 2.2rem;
     }
 }
-
+.texto p{
+    font-size: 16px;
+}
